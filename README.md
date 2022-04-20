@@ -1,5 +1,5 @@
 # 3D-OpenGL-Test-Program
-Test Program for Rendering 3D graphics using OpenGL
+Test Program for Rendering 3D graphics using OpenGL. Won "Best Game" in my class during finals week.
 
 This is a first person maze explorer game which was my first attempt at making a 3D game using OpenGL and C++ that has both collision and graphics but does not meet up to my personal expectations as I wanted to also have baked in graphics.
 
